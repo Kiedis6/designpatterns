@@ -7,7 +7,7 @@ import com.alejandro.mateo.ingelmo.designpatterns.abstractfactory.model.Mouse;
  * @author : Alejandro Mateo
  * @since : 11/6/21, vie.
  **/
-public interface WorkstationFactory {
+public interface DeviceFactory {
     Keyboard createKeyboard();
     Mouse createMouse();
 }

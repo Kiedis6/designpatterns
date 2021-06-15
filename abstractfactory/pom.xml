@@ -11,7 +11,7 @@
 	<groupId>com.alejandro.mateo.ingelmo.designpatterns</groupId>
 	<artifactId>abstractfactory</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>abstractfactory</name>
+	<name>abstractFactory</name>
 	<description>Abstract Factory example</description>
 	<properties>
 		<java.version>11</java.version>

@@ -6,7 +6,7 @@ import com.alejandro.mateo.ingelmo.designpatterns.abstractfactory.model.*;
  * @author : Alejandro Mateo
  * @since : 15/6/21, mar.
  **/
-public class WorkstationFactoryWin implements WorkstationFactory{
+public class DeviceFactoryWin implements DeviceFactory {
 
     @Override
     public Keyboard createKeyboard() {

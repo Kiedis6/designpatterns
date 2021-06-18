@@ -8,6 +8,8 @@ import com.alejandro.mateo.ingelmo.designpatterns.abstractfactory.model.Mouse;
  * @author : Alejandro Mateo
  * @since : 15/6/21, mar.
  **/
+
+//esto es una prueba
 public class Workstation {
     private final Keyboard keyboard;
     private final Mouse mouse;

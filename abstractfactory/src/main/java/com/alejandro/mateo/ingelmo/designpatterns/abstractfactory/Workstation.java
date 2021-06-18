@@ -9,7 +9,7 @@ import com.alejandro.mateo.ingelmo.designpatterns.abstractfactory.model.Mouse;
  * @since : 15/6/21, mar.
  **/
 
-//esto es una prueba
+//esto es una prueba quehe editado en origin
 public class Workstation {
     private final Keyboard keyboard;
     private final Mouse mouse;
